@@ -6,3 +6,4 @@ faiss-cpu
 ollama
 python-dotenv
 numpy
+google-genai
