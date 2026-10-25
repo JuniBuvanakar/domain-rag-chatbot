@@ -1,0 +1,16 @@
+﻿Test ID,Question,Acceptance criterion,Result,Status
+T01,What does TCP provide?,Relevant answer supported by the document; source and page shown.,Passed in user's test run,PASS
+T02,Who is the company CEO?,Fallback response returned because the information is absent.,Passed in user's test run,PASS
+T03,What is the difference between TCP and UDP?,"Document-grounded comparison with source/page, or fallback if absent.",Passed in user's test run,PASS
+T04,What is process scheduling?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T05,What is a deadlock?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T06,What is a semaphore used for?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T07,What is a Python list?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T08,What is the difference between a tuple and a list?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T09,What is a dictionary in Python?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T10,What is binary search?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T11,What is the time complexity of merge sort?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T12,What is a stack?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T13,What is supervised learning?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T14,What is overfitting?,"Document-grounded answer with source/page, or fallback if absent.",Passed in user's test run,PASS
+T15,Explain photosynthesis.,Fallback response returned if absent from the uploaded documents.,Passed in user's test run,PASS
