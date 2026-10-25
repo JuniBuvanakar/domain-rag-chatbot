@@ -15,7 +15,7 @@ st.warning("Verify important information against the original documents.")
 
 FALLBACK = "I could not find this information in the uploaded documents."
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-GENERATION_MODEL = "gemini-3.1-flash-lite"
+GENERATION_MODEL = "gemini-3.8-flash"
 
 
 @st.cache_resource
